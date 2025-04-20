@@ -3,10 +3,9 @@ Executive-Data-Summary-Q1-Report/
 ├─ README.md
 ├─ Quarter-One-Report.xlsx
 └─ Screenshots/
-   ├─ before-formatting.png
-   ├─ after-formatting.png
-   └─ final-summary-section.png
-
+   ├─ before-formatting.xlsx
+   ├─ after-formatting.xlsx
+   
 # 📊 Executive Data Summary – Quarter 1 Report
 
 A professional Excel project developed as the final capstone for a Microsoft Excel course. This report provides an executive-level 
